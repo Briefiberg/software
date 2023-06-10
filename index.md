@@ -6,4 +6,4 @@
 An Operating System I Made You Can Call It A Linux Distro
 # Credits
 Wallpaper From Google Settings Icon From Google
-### [Download Here]([https://github.com/Briefiberg/YuriOS/releases/download/Versions/YuriOS.zip])
+### [Download Here][https://github.com/Briefiberg/YuriOS/releases/download/Versions/YuriOS.zip]
