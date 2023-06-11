@@ -1,5 +1,5 @@
 # Briefiberg Software
-## SniperChat
+## Sniper Chat
 ### A Chatting Software I Wrote
 ### Credits
 ### Chat From Smartur
