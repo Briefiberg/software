@@ -5,7 +5,7 @@
 ### Chat From Smartur
 ### How To Use
 ### To Chat You Will Have To Type Numbers To Talk
-## Commands
+### Commands
 ### 1 hi
 ### 2 how r u?
 ### 3 gr8
