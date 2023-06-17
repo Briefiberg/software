@@ -20,7 +20,7 @@
 ### An Operating System I Made You Can Call It A Linux Distro
 ### Credits
 ### Wallpaper From Google Settings Icon From Google
-### [Run Yuri OS V2.0 Online](https://github.com/Briefiberg/YuriOS/releases/download/2.0/YuriOSV2.0.zip)
+### [Run Yuri OS V2.0 Online](https://briefiberg.github.io/YuriOS/YuriOSV2.0)
 ### [2.0](https://github.com/Briefiberg/YuriOS/releases/download/2.0/YuriOSV2.0.zip)
 ### [1.0](https://github.com/Briefiberg/YuriOS/releases/download/1.0/YuriOS.zip)
 ## Slatch
