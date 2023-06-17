@@ -20,9 +20,7 @@
 ### An Operating System I Made You Can Call It A Linux Distro
 ### Credits
 ### Wallpaper From Google Settings Icon From Google
-### [Run Yuri OS V2.0 Online](https://briefiberg.github.io/YuriOS/YuriOSV2.0)
-### [Download V2.0](https://github.com/Briefiberg/YuriOS/releases/download/2.0/YuriOSV2.0.zip)
-### [Download V1.0](https://github.com/Briefiberg/YuriOS/releases/download/1.0/YuriOS.zip)
+### [Check It Out](https://briefiberg.github.io/YuriOS)
 ## Slatch
 ### Slatch is the world’s smallest coding language with a simple visual interface that allows young people to create digital stories, games, and animations. Slatch is designed, developed, and moderated by Briefiberg.
 ### [Website](https://briefiberg.github.io/slatch/)
