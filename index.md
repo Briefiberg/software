@@ -15,7 +15,7 @@
 ### 7 i like ur projects!
 ### 8 Thx
 ### 9 wanna play agario?
-### [Download Here](https://github.com/Briefiberg/SniperChat/releases/download/1.0/SniperChatSetup.exe)
+### [Download Here](https://briefiberg.github.io/sniperchat/)
 ## YuriOS
 ### An Operating System I Made You Can Call It A Linux Distro
 ### Credits
