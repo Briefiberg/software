@@ -3,6 +3,7 @@
 ### Eaglercraft As A NW.JS Executable File For Windows!
 ### It Has All Versions Like 1.8, 1.5.2, And 1.3!
 ### Enjoy...!
+### [Download It](https://github.com/Briefiberg/EaglercraftForWindows/releases)
 ## Sniper Chat
 ### A Chatting Software I Wrote
 ### Credits
