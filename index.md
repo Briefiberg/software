@@ -3,7 +3,7 @@
 ### Pyonkee Ported Into Windows!
 ### The Scratch 1.4 Mod For iPad And MacOS Has Now Been Ported To Windows!
 ### Ported To Windows With SqueakVM 3.10.6 And Modified With Resource Hacker To Add The Icon
-### [Download](https://github.com/Briefiberg/EaglercraftForWindows/releases)
+### [Download](https://github.com/Briefiberg/PyonkeeForWindows/releases)
 ## Eaglercraft For Windows
 ### Eaglercraft As A NW.JS Executable File For Windows!
 ### It Has All Versions Like 1.8, 1.5.2, And 1.3!
